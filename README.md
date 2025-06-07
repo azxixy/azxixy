@@ -3,7 +3,7 @@
 </div>
 
 ###
- 
+  
 <h4 align="center">👋 Hi there!<br>My name is Nicholas and I'm a Computer Engineering student at Texas Tech University (TTU) with a passion for coding, problem-solving, and building practical tech solutions. Here you'll find projects ranging from coursework and personal experiments to collaborative school projects. I'm always looking to learn new technologies and contribute to meaningful projects.<br><br>Feel free to explore, connect, or reach out!</h4>
 
 ###
